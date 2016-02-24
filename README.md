@@ -44,11 +44,13 @@
 
   * En Atom abrir ajustes dentro de Atom ( en File ) , ir a la seccion de instalar y buscar Emmet.
 
+### Pagina de cada uno
 
-### Despliegue en github.io
-
- [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
+  * (http://alu0100819182.github.io)
+  * (http://luisdavidpm.github.io)
 
 ### Ejecutar las pruebas
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
+  * (http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-omarluisda/)
+
+  
