@@ -49,8 +49,14 @@
   * (http://alu0100819182.github.io)
   * (http://luisdavidpm.github.io)
 
-### Ejecutar las pruebas
+### Pagina de la practica
 
   * (http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-omarluisda/)
 
-  
+### Repo de trabajo
+
+  * (https://github.com/alu0100819182/conversor-de-temperatura-simple-omarluisda)
+
+### Campus virtual de la asignatura
+
+  * (https://campusvirtual.ull.es/1516/course/view.php?id=178)
